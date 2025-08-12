@@ -1,0 +1,4 @@
+https://fontawesome.com/docs/web/
+<i class="fa-solid fa-heart"></i>
+<i class="fa-solid fa-cart-shopping"></i>
+<i class="fa-solid fa-house"></i>
